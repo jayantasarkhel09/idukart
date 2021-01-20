@@ -1,0 +1,12 @@
+{
+  "name": "idukart",
+  "displayName": "idukart",
+  "expo": {
+    "name": "idukart",
+    "slug": "idukart",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
